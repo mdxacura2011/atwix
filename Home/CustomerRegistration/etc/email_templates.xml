@@ -1,4 +1,0 @@
-<?xml version="1.0"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Email:etc/email_templates.xsd">
-    <template id="customer_data_after_registration_email_template" label="Send admin customer data" file="customer_data.html" type="html" module="Home_CustomerRegistration" area="frontend"/>
-</config>
